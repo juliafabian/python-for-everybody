@@ -64,5 +64,5 @@ def main():
         elif choice == '5':
             print('Closing Contact Book')
             break
-load_contacts(contacts)
+
 main()
